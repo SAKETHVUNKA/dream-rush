@@ -26,7 +26,7 @@ This game was developed using Unity 3D. The primary components utilized include:
 * 3D models for the forest environment, player, orbs, and obstacles.
 
 ## Other Contributors :
-* Mutasim : https://github.com/meowtasim
+* [Mutasim](https://github.com/meowtasim)
 
 ![START_PAGE](https://github.com/SAKETHVUNKA/Dream_Rush/assets/106236218/3b57697b-aef1-414f-832c-a3c92ae04bc6)
 
